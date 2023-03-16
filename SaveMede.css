@@ -1,0 +1,20 @@
+
+/* .MediocreMelodies{
+display: flex;
+flex-direction: column;
+justify-content: center;
+} */
+
+.LEFTE{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.Jack-o-Lolbit{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
